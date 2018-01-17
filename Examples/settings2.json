@@ -1,0 +1,16 @@
+{
+  "FirstSkillPos": [{"X": "150", "Y": "1150"}],
+  "SkillOffset": "234",
+  "StartOrbPos": [{"X": "127", "Y": "1500"}],
+  "OrbOffset": "234",
+  
+  "GameMenuButton": [{"X": "0", "Y": "0"}],
+  "PassButton": [{"X": "0", "Y": "0"}],
+  "PassConfirmButton": [{"X": "0", "Y": "0"}],
+
+  "ClearButton": [{"X": "719", "Y": "2130"}],
+  "FriendOkButton": [{"X": "719", "Y": "1809"}],
+  "ConsecBattleYesButton": [{"X": "503", "Y": "1503"}],
+  "ConsecBattleNoButton": [{"X": "935", "Y": "1503"}],
+  "CoopReadyButton": [{"X": "391", "Y": "1503"}]
+}

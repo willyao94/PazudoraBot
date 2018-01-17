@@ -1,0 +1,34 @@
+{
+  "P1":"ra/ra/ra/ra/ra",
+  "P2":"ra/ra/ra/ra/ra",
+  "CmdCount": 1,
+  "1": [
+    {
+      "ActiveSkill": "Sub4"
+    },
+    {
+      "Pause": "6500"
+    },
+    {
+      "ActiveSkill": "Sub2"
+    },
+    {
+      "Pause": "6500"
+    },
+    {
+      "ActiveSkill": "Sub3"
+    },
+    {
+      "Pause": "6500"
+    },
+    {
+      "ActiveSkill": "Sub1"
+    },
+    {
+      "Pause": "11000"
+    },
+    {
+      "ActiveSkill": "Ldr"
+    }
+  ]
+}

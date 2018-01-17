@@ -1,0 +1,80 @@
+{
+  "P1":"lb/dios/dios/dios/dios",
+  "P2":"lb/dios/dios/dios/dios",
+  "CmdCount": 6,
+  "1": [
+    {
+      "ActiveSkill": "Sub4"
+    },
+    {
+      "Pause": "2000"
+    },
+    {
+      "MoveSet": "0.1"
+    },
+    {
+      "Pause": "9000"
+    }
+  ],
+  "2": [
+    {
+      "MoveSet": "0.1"
+    },
+    {
+      "Pause": "9000"
+    }
+  ],
+  "3": [
+    {
+      "ActiveSkill": "Sub3"
+    },
+    {
+      "Pause": "2000"
+    },
+    {
+      "MoveSet": "0.1"
+    },
+    {
+      "Pause": "10000"
+    }
+  ],
+  "4": [
+    {
+      "ActiveSkill": "Sub4"
+    },
+    {
+      "Pause": "2000"
+    },
+    {
+      "MoveSet": "0.1"
+    },
+    {
+      "Pause": "9000"
+    }
+  ],
+  "5": [
+    {
+      "ActiveSkill": "Sub2"
+    },
+    {
+      "Pause": "2000"
+    },
+    {
+      "MoveSet": "0.1"
+    },
+    {
+      "Pause": "11000"
+    }
+  ],
+  "6": [
+    {
+      "ActiveSkill": "Sub3"
+    },
+    {
+      "Pause": "2000"
+    },
+    {
+      "MoveSet": "0.1"
+    }
+  ]
+}
